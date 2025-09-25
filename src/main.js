@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             
 
-            
+        
             
             // --- عطور للجنسين ---
             { id: 39, category: 'perfumes', name_ar: 'عود وود', designer_ar: 'توم فورد', name_en: 'Oud Wood', designer_en: 'Tom Ford', price_usd: 250, image: 'https://i.pinimg.com/736x/25/d6/98/25d698b4a212a980f4f687c5c1a91e1e.jpg', tags: ['unisex', 'winter'], rating: 5, reviews: 190, desc_ar: 'أحد أكثر المكونات النادرة والثمينة في عالم العطور، خشب العود. يمتزج العود الغريب مع خشب الورد والهيل، ليخلق تركيبة غنية ومميزة.', desc_en: 'One of the most rare and precious ingredients in perfumery, oud wood. Exotic oud blends with rosewood and cardamom, creating a rich and distinctive composition.', badge: 'new' },
